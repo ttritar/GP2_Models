@@ -2,7 +2,7 @@
 A repository used to fetch models for my Graphics Programming 2 project.
 
 ## Model Sources
-| Model Name       | Source / Author                                   | License / Notes                 |
-| ---------------- | ------------------------------------------------- | ------------------------------- |
-| sponza.obj       | [McGuire Computer Graphics Archive](https://casual-effects.com/data/) - Marko Dabrovic | CC BY-NC                    |
-| sibenik.obj       | [McGuire Computer Graphics Archive](https://casual-effects.com/data/) - Marko Dabrovic | CC BY-NC                    |
+| Model            | Source / Author                                   |
+| ---------------- | ------------------------------------------------- |
+| Flight Helmet       | [Khronos Group glTF sample assets](https://github.com/KhronosGroup/glTF-Sample-Assets) - Marko Dabrovic |
+| Sponza     | [Khronos Group glTF sample assets](https://github.com/KhronosGroup/glTF-Sample-Assets) |
