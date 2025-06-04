@@ -1,4 +1,4 @@
-# GP2_Models
+# GP2_Resources
 A repository used to fetch models for my Graphics Programming 2 project.
 
 ## Sources
